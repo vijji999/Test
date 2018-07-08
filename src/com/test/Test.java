@@ -38,9 +38,9 @@ public class Test {
 //		}
 //	}
 			}
-			Select select = new Select(driver.findElement(By.name("adults")));
-			select.selectByVisibleText("5");
+//			Select select = new Select(driver.findElement(By.name("adults")));
+//			select.selectByVisibleText("5");
 
 	}
 
-}
+//}
